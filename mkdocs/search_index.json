@@ -1,0 +1,14 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Welcome to PyLadies Singapore\n\n\nThe Singapore chapter of PyLadies, an international group focused on getting more women into the Python community and programming.", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#welcome-to-pyladies-singapore", 
+            "text": "The Singapore chapter of PyLadies, an international group focused on getting more women into the Python community and programming.", 
+            "title": "Welcome to PyLadies Singapore"
+        }
+    ]
+}
