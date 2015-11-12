@@ -9,6 +9,16 @@
             "location": "/#welcome-to-pyladies-singapore", 
             "text": "The Singapore chapter of  PyLadies , an international group focused on getting more women into the Python community and programming.", 
             "title": "Welcome to PyLadies Singapore"
+        }, 
+        {
+            "location": "/resources/", 
+            "text": "Resources for PyLadies Singapore\n\n\nHere you will find all tutorials and slides from our past workshops.", 
+            "title": "Resources"
+        }, 
+        {
+            "location": "/resources/#resources-for-pyladies-singapore", 
+            "text": "Here you will find all tutorials and slides from our past workshops.", 
+            "title": "Resources for PyLadies Singapore"
         }
     ]
 }
