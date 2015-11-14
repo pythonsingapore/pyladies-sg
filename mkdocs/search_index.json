@@ -12,13 +12,23 @@
         }, 
         {
             "location": "/resources/", 
-            "text": "Resources for PyLadies Singapore\n\n\nHere you will find all tutorials and slides from our past workshops.", 
+            "text": "Resources for PyLadies Singapore\n\n\nHere you will find all tutorials and slides from our past workshops.\n\n\n1. Python Introduction\n\n\nOur first workshop shows you how to install Python, and essential tools like\nvirtualenv, virtualenv wrapper, and \nAtom.io\n as your editor.\n\n\nThere isn't much Python programming involved, but it gives you the tools to\nstart your journey!\n\n\nFind the slides at \nmbrochh.github.io/python-introduction/\n\n\n2. mkdocs Introduction\n\n\nOur second workshop was about creating a website with\n\nmkdocs\n, and host it for free on\n\nGitHub\n.\n\n\nBy the way, this very website has been created during the workshop. And you can\nfind the code on\n\ngithub.com/pythonsingapore/pyladies-sg\n\n\nFind the slides at\n\nmbrochh.github.io/mkdocs-introduction/", 
             "title": "Resources"
         }, 
         {
             "location": "/resources/#resources-for-pyladies-singapore", 
             "text": "Here you will find all tutorials and slides from our past workshops.", 
             "title": "Resources for PyLadies Singapore"
+        }, 
+        {
+            "location": "/resources/#1-python-introduction", 
+            "text": "Our first workshop shows you how to install Python, and essential tools like\nvirtualenv, virtualenv wrapper, and  Atom.io  as your editor.  There isn't much Python programming involved, but it gives you the tools to\nstart your journey!  Find the slides at  mbrochh.github.io/python-introduction/", 
+            "title": "1. Python Introduction"
+        }, 
+        {
+            "location": "/resources/#2-mkdocs-introduction", 
+            "text": "Our second workshop was about creating a website with mkdocs , and host it for free on GitHub .  By the way, this very website has been created during the workshop. And you can\nfind the code on github.com/pythonsingapore/pyladies-sg  Find the slides at mbrochh.github.io/mkdocs-introduction/", 
+            "title": "2. mkdocs Introduction"
         }
     ]
 }
