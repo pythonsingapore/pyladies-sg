@@ -2,13 +2,23 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to PyLadies Singapore\n\n\nThe Singapore chapter of \nPyLadies\n, an international group focused on getting more women into the Python community and programming.", 
+            "text": "Welcome to PyLadies Singapore\n\n\nThe Singapore chapter of \nPyLadies\n, an international\ngroup focused on getting more women into the Python community and programming.\n\n\nJoin us on Facebook\n\n\nIf you would like to be notified about upcoming workshops and interesting tech\nevents, just join \nour Facebook\ngroup\n.\n\n\nYou can also post there if you have questions, or if you would like to announce events.\n\n\nJoin us on Slack\n\n\nWe also have a growing Slack community. You can \njoin us\nhere\n and ask us anything if you need\nhelp with your Python programming.", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-pyladies-singapore", 
-            "text": "The Singapore chapter of  PyLadies , an international group focused on getting more women into the Python community and programming.", 
+            "text": "The Singapore chapter of  PyLadies , an international\ngroup focused on getting more women into the Python community and programming.", 
             "title": "Welcome to PyLadies Singapore"
+        }, 
+        {
+            "location": "/#join-us-on-facebook", 
+            "text": "If you would like to be notified about upcoming workshops and interesting tech\nevents, just join  our Facebook\ngroup .  You can also post there if you have questions, or if you would like to announce events.", 
+            "title": "Join us on Facebook"
+        }, 
+        {
+            "location": "/#join-us-on-slack", 
+            "text": "We also have a growing Slack community. You can  join us\nhere  and ask us anything if you need\nhelp with your Python programming.", 
+            "title": "Join us on Slack"
         }, 
         {
             "location": "/resources/", 
