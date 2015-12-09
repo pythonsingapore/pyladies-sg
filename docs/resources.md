@@ -24,3 +24,11 @@ find the code on
 
 Find the slides at
 [mbrochh.github.io/mkdocs-introduction/](http://mbrochh.github.io/mkdocs-introduction/)
+
+##3. Python 101
+
+Our third workshop was about the basics of Python programming. We finally wrote
+some actual Python code and a little program that does something useful!
+
+Find the slides at
+[mbrochh.github.io/python-101/](http://mbrochh.github.io/python-101/)
