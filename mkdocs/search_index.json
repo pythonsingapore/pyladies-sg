@@ -2,28 +2,33 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to PyLadies Singapore\n\n\nThe Singapore chapter of \nPyLadies\n, an international\ngroup focused on getting more women into the Python community and programming.\n\n\nJoin us on Facebook\n\n\nIf you would like to be notified about upcoming workshops and interesting tech\nevents, just join \nour Facebook\ngroup\n.\n\n\nYou can also post there if you have questions, or if you would like to announce events.\n\n\nJoin us on Slack\n\n\nWe also have a growing Slack community. You can \njoin us\nhere\n and ask us anything if you need\nhelp with your Python programming.\n\n\nFind our recent slides\n\n\nHave a look at our \nResources page\n to find out more about our\npast workshop. You will also find links to our slides. Just have a look and\ntry it at home. If you run into road-blocks, just ask us anything on slack!", 
+            "text": "Welcome to PyLadies Singapore\n\n\nPyLadies\n is an international group focused on\ngetting more women into the Python community and programming in general.\n\n\nThis is the official website of PyLadies SG, the Singapore chapter of PyLadies.\n\n\nJoin us on Facebook\n\n\nIf you would like to be notified about upcoming workshops and interesting tech\nevents, just join \nour Facebook group\n.\n\n\nIt is an open group and everyone is invited to share links and ask questions\nabout Python, programming and upcoming local events.\n\n\nJoin us on Slack\n\n\nWe also have a growing Slack community. You can \njoin us here\n and ask us anything if you need\nhelp with your Python programming.\n\n\nFind our recent slides\n\n\nHave a look at our \nResources page\n to find out more about our\npast workshops. You will find links to our slides there.\n\n\nHelp us to grow this website\n\n\nThis website is \nhosted on GitHub\n.\nIf you find typos or if you have ideas for content that should be featured here,\nplease open an issue or even a pull request on GitHub.", 
             "title": "Home"
         }, 
         {
             "location": "/#welcome-to-pyladies-singapore", 
-            "text": "The Singapore chapter of  PyLadies , an international\ngroup focused on getting more women into the Python community and programming.", 
+            "text": "PyLadies  is an international group focused on\ngetting more women into the Python community and programming in general.  This is the official website of PyLadies SG, the Singapore chapter of PyLadies.", 
             "title": "Welcome to PyLadies Singapore"
         }, 
         {
             "location": "/#join-us-on-facebook", 
-            "text": "If you would like to be notified about upcoming workshops and interesting tech\nevents, just join  our Facebook\ngroup .  You can also post there if you have questions, or if you would like to announce events.", 
+            "text": "If you would like to be notified about upcoming workshops and interesting tech\nevents, just join  our Facebook group .  It is an open group and everyone is invited to share links and ask questions\nabout Python, programming and upcoming local events.", 
             "title": "Join us on Facebook"
         }, 
         {
             "location": "/#join-us-on-slack", 
-            "text": "We also have a growing Slack community. You can  join us\nhere  and ask us anything if you need\nhelp with your Python programming.", 
+            "text": "We also have a growing Slack community. You can  join us here  and ask us anything if you need\nhelp with your Python programming.", 
             "title": "Join us on Slack"
         }, 
         {
             "location": "/#find-our-recent-slides", 
-            "text": "Have a look at our  Resources page  to find out more about our\npast workshop. You will also find links to our slides. Just have a look and\ntry it at home. If you run into road-blocks, just ask us anything on slack!", 
+            "text": "Have a look at our  Resources page  to find out more about our\npast workshops. You will find links to our slides there.", 
             "title": "Find our recent slides"
+        }, 
+        {
+            "location": "/#help-us-to-grow-this-website", 
+            "text": "This website is  hosted on GitHub .\nIf you find typos or if you have ideas for content that should be featured here,\nplease open an issue or even a pull request on GitHub.", 
+            "title": "Help us to grow this website"
         }, 
         {
             "location": "/resources/", 
