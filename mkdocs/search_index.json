@@ -2,7 +2,7 @@
     "docs": [
         {
             "location": "/", 
-            "text": "Welcome to PyLadies Singapore\n\n\nThe Singapore chapter of \nPyLadies\n, an international\ngroup focused on getting more women into the Python community and programming.\n\n\nJoin us on Facebook\n\n\nIf you would like to be notified about upcoming workshops and interesting tech\nevents, just join \nour Facebook\ngroup\n.\n\n\nYou can also post there if you have questions, or if you would like to announce events.\n\n\nJoin us on Slack\n\n\nWe also have a growing Slack community. You can \njoin us\nhere\n and ask us anything if you need\nhelp with your Python programming.", 
+            "text": "Welcome to PyLadies Singapore\n\n\nThe Singapore chapter of \nPyLadies\n, an international\ngroup focused on getting more women into the Python community and programming.\n\n\nJoin us on Facebook\n\n\nIf you would like to be notified about upcoming workshops and interesting tech\nevents, just join \nour Facebook\ngroup\n.\n\n\nYou can also post there if you have questions, or if you would like to announce events.\n\n\nJoin us on Slack\n\n\nWe also have a growing Slack community. You can \njoin us\nhere\n and ask us anything if you need\nhelp with your Python programming.\n\n\nFind our recent slides\n\n\nHave a look at our \nResources page\n to find out more about our\npast workshop. You will also find links to our slides. Just have a look and\ntry it at home. If you run into road-blocks, just ask us anything on slack!", 
             "title": "Home"
         }, 
         {
@@ -19,6 +19,11 @@
             "location": "/#join-us-on-slack", 
             "text": "We also have a growing Slack community. You can  join us\nhere  and ask us anything if you need\nhelp with your Python programming.", 
             "title": "Join us on Slack"
+        }, 
+        {
+            "location": "/#find-our-recent-slides", 
+            "text": "Have a look at our  Resources page  to find out more about our\npast workshop. You will also find links to our slides. Just have a look and\ntry it at home. If you run into road-blocks, just ask us anything on slack!", 
+            "title": "Find our recent slides"
         }, 
         {
             "location": "/resources/", 
