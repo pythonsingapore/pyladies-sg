@@ -16,3 +16,9 @@ You can also post there if you have questions, or if you would like to announce 
 We also have a growing Slack community. You can [join us
 here](http://pyladies-sg-slackin.herokuapp.com/) and ask us anything if you need
 help with your Python programming.
+
+## Find our recent slides
+
+Have a look at our [Resources page](resources.md) to find out more about our
+past workshop. You will also find links to our slides. Just have a look and
+try it at home. If you run into road-blocks, just ask us anything on slack!
