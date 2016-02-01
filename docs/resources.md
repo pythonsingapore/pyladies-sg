@@ -32,3 +32,13 @@ some actual Python code and a little program that does something useful!
 
 Find the slides at
 [mbrochh.github.io/python-101/](http://mbrochh.github.io/python-101/)
+
+#Other Friendly User Groups
+
+Python is not the only interesting programming language out there. If you would
+like to broaden your horizon you can meet these other friendly user groups:
+
+* [Rails Girls Singapore](https://www.facebook.com/groups/railsgirlssingapore/?fref=ts)
+* [CodingGirls SG](https://www.facebook.com/CodingGirls/?fref=ts)
+* [TechLadies](https://www.facebook.com/TechLadies/?fref=ts)
+* [Singapore Geek Girls](https://www.facebook.com/SGGeekGirls/?fref=ts)
