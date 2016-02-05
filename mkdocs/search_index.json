@@ -32,7 +32,7 @@
         }, 
         {
             "location": "/resources/", 
-            "text": "Resources for PyLadies Singapore\n\n\nHere you will find all tutorials and slides from our past workshops.\n\n\n1. Python Introduction\n\n\nOur first workshop shows you how to install Python, and essential tools like\nvirtualenv, virtualenv wrapper, and \nAtom.io\n as your editor.\n\n\nThere isn't much Python programming involved, but it gives you the tools to\nstart your journey!\n\n\nFind the slides at \nmbrochh.github.io/python-introduction/\n\n\n2. mkdocs Introduction\n\n\nOur second workshop was about creating a website with\n\nmkdocs\n, and host it for free on\n\nGitHub\n.\n\n\nBy the way, this very website has been created during the workshop. And you can\nfind the code on\n\ngithub.com/pythonsingapore/pyladies-sg\n\n\nFind the slides at\n\nmbrochh.github.io/mkdocs-introduction/\n\n\n3. Python 101\n\n\nOur third workshop was about the basics of Python programming. We finally wrote\nsome actual Python code and a little program that does something useful!\n\n\nFind the slides at\n\nmbrochh.github.io/python-101/\n\n\nOther Friendly User Groups\n\n\nPython is not the only interesting programming language out there. If you would\nlike to broaden your horizon you can meet these other friendly user groups:\n\n\n\n\nRails Girls Singapore\n\n\nCodingGirls SG\n\n\nTechLadies\n\n\nSingapore Geek Girls", 
+            "text": "Resources for PyLadies Singapore\n\n\nHere you will find all tutorials and slides from our past workshops.\n\n\n1. Python Introduction\n\n\nOur first workshop shows you how to install Python, and essential tools like\nvirtualenv, virtualenv wrapper, and \nAtom.io\n as your editor.\n\n\nThere isn't much Python programming involved, but it gives you the tools to\nstart your journey!\n\n\nFind the slides at \nmbrochh.github.io/python-introduction/\n\n\n2. mkdocs Introduction\n\n\nOur second workshop was about creating a website with\n\nmkdocs\n, and host it for free on\n\nGitHub\n.\n\n\nBy the way, this very website has been created during the workshop. And you can\nfind the code on\n\ngithub.com/pythonsingapore/pyladies-sg\n\n\nFind the slides at\n\nmbrochh.github.io/mkdocs-introduction/\n\n\n3. Python 101\n\n\nOur third workshop was about the basics of Python programming. We finally wrote\nsome actual Python code and a little program that does something useful!\n\n\nFind the slides at\n\nmbrochh.github.io/python-101/\n\n\nOther Friendly User Groups\n\n\nPython is not the only interesting programming language out there. If you would\nlike to broaden your horizon you can meet these other friendly user groups:\n\n\n\n\nRails Girls Singapore\n\n\nCodingGirls SG\n\n\nTechLadies\n\n\nSingapore Geek Girls\n\n\nGirls in Tech Singapore", 
             "title": "Resources"
         }, 
         {
@@ -57,7 +57,7 @@
         }, 
         {
             "location": "/resources/#other-friendly-user-groups", 
-            "text": "Python is not the only interesting programming language out there. If you would\nlike to broaden your horizon you can meet these other friendly user groups:   Rails Girls Singapore  CodingGirls SG  TechLadies  Singapore Geek Girls", 
+            "text": "Python is not the only interesting programming language out there. If you would\nlike to broaden your horizon you can meet these other friendly user groups:   Rails Girls Singapore  CodingGirls SG  TechLadies  Singapore Geek Girls  Girls in Tech Singapore", 
             "title": "Other Friendly User Groups"
         }
     ]
