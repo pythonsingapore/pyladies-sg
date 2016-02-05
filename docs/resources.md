@@ -42,3 +42,4 @@ like to broaden your horizon you can meet these other friendly user groups:
 * [CodingGirls SG](https://www.facebook.com/CodingGirls/?fref=ts)
 * [TechLadies](https://www.facebook.com/TechLadies/?fref=ts)
 * [Singapore Geek Girls](https://www.facebook.com/SGGeekGirls/?fref=ts)
+* [Girls in Tech Singapore](https://www.facebook.com/girlsintechsg/?fref=ts)
